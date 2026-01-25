@@ -1,0 +1,24 @@
+![senai_logo](https://transparencia.sp.senai.br/Content/img/logo-senai.png)
+
+# Semana de nivelamento
+___
+
+## Atividade 01:
+
+1. Crie um arquivo markdown com o nome ```Apresentacao_SEU_NOME.md```
+2. Edite o arquivo criado preenchendo o seguinte:
+
+    ```
+        Nome:
+        Cidade:
+        Cursos/Interesses:
+        Hobby:
+        Expectativa para o curso ADS:
+    ```
+3. Após finalizar a edição, realize as etapas:
+    a. Stage
+    b. Commit
+    c. Push
+___
+
+## Atividade 02:
